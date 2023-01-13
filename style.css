@@ -1,0 +1,38 @@
+.image {
+  background-image: url(https://cdn.pixabay.com/photo/2016/05/05/02/37/sunset-1373171__480.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.div {
+  border: 3px solid yellowgreen;
+  width: 900px;
+  height: 400px;
+  background-color: yellowgreen;
+  margin: 100px;
+  padding: 100px;
+  right: 50px;
+}
+.name {
+  display: inline-block;
+ 
+  font-size: 20px;
+}
+
+.input {
+  font-size: 20px;
+}
+
+.first{
+  display: inline-block;
+   padding: 20px;
+  font-size: 20px;
+}
+.sumbit{
+  display: inline-block;
+  border: 2px solid yellowgreen;
+  padding: 10px;
+  width: 15%;
+  margin: auto;
+  background-color:yellow;
+  
+}
